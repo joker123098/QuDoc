@@ -1,7 +1,7 @@
 # QuDoc &#x1F537;
 Quantum Machine Learning Powered Healthcare Platform
 
-  ![](https://github.com/sahajoydeep2002/Medical-Diagnosis-Healthcare-Platform/blob/main/Screen%2520Shot%25202021-05-30%2520at%25204.01.41%2520PM.png)
+  ![](https://github.com/sahajoydeep2002/Medical-Diagnosis-Healthcare-Platform/blob/main/1635084481681.png)
 
 
 
